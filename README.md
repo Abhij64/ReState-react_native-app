@@ -1,6 +1,5 @@
 # ReState - React Native App
 
-![Project Banner](Project Banner URL)
 
 ## 📌 Overview
 ReState is a mobile application built with React Native and Expo to simplify the process of buying and selling properties. It integrates with Appwrite for backend services, providing secure authentication, real-time property listings, and seamless transaction management.
